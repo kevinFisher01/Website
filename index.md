@@ -8,7 +8,7 @@ layout: home
 	<html>
 	<head>
 	<title>Website</title>
-	<link href="/stylesheet1.css" rel="stylesheet" type="text/css"/>
+	<link href="/assets/stylesheet1.css" rel="stylesheet" type="text/css"/>
 	<head>
 	<body>
 	<h1> Kevin's Website </h1>
